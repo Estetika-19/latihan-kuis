@@ -1,0 +1,26 @@
+name: flutter_latihan_kuis
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  url_launcher: ^6.1.5
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/makeup-accessories-background.png
+    - assets/high-angle-pink-shades-lipstick.jpg
+    - assets/Peach New Arrival Cosmetic Modern Geometric Banner.png
+    - assets/Pink Make Up Cosmetic Promo Instagram Post.png
+    - assets/Pink Pastel Promo Product Cosmetic Poster.png
